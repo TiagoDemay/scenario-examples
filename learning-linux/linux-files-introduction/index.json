@@ -13,6 +13,11 @@
         "verify": "step1/verify.sh"
       },
       {
+        "title": "Create an empty file",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
         "title": "Create a file with text",
         "text": "step2/text.md",
         "verify": "step2/verify.sh"
