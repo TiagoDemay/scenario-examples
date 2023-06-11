@@ -4,8 +4,8 @@
     "imageid": "ubuntu"
   },
   "description": "Neste cenário, você aprenderá a identificar e corrigir uma configuração de IP incorreta.",
-  "difficulty": "2/5",
-  "time": "15 minutes",
+//  "difficulty": "2/5",
+//  "time": "15 minutes",
   "details": {
     "steps": [
       {
@@ -27,11 +27,5 @@
     "finish": {
       "text": "Parabéns! Você concluiu o cenário. Agora você sabe como identificar e corrigir uma configuração de IP incorreta."
     }
-  },
-  "environment": {
-    "showide": false,
-    "uieditorpath": "/root",
-    "hideintro": false,
-    "hidefinish": false
   }
 }
