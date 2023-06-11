@@ -1,7 +1,7 @@
 {
   "title": "ubuntu-demay",
   "backend": {
-  "imageid": "ubuntu"
+    "imageid": "ubuntu"
   },
   "description": "Neste cenário, você aprenderá a identificar e corrigir uma configuração de IP incorreta.",
   "difficulty": "2/5",
